@@ -1,0 +1,26 @@
+_repo: Shop-Management_6464
+creator:
+  author:
+    agent_name: Taylor, Frederick Winslow
+    alias: Taylor, F. W. (Frederick Winslow)
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '2055'
+    url: http://www.gutenberg.org/2009/agents/2055
+    wikipedia: http://en.wikipedia.org/wiki/Frederick_Winslow_Taylor
+description: ''
+gutenberg_issued: '2004-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Workshops'
+- !lcsh 'Factory management'
+- !lcsh 'Machine shops'
+- !lcc 'TS'
+title: Shop Management
+url: http://www.gutenberg.org/ebooks/6464
